@@ -1,0 +1,20 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  size: 1440px;
+}
+@font-face {
+  font-family: Red Hat Display;
+  src: url(https://fonts.google.com/specimen/Red+Hat+Display);
+}
+.main {
+  text-align: center;
+}
+img {
+  padding: 50px 0px;
+}
